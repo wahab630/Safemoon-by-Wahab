@@ -1,0 +1,20 @@
+
+.f-top-section{
+    margin-top: 60px;
+    margin-bottom: 40px;
+}
+.about-web{    
+    display: flex;    
+}
+.footer-img{
+    height: 69px;
+    width: 69px;    
+    display: block;   
+}
+.f-logo{
+    margin-top: 40px;
+   
+}
+.right-list{
+    text-align: right;
+}

@@ -1,0 +1,13 @@
+.nav-img{
+    height: 50px;
+    width: 50px;
+}
+.navbar{
+    padding-top: 20px;
+    padding-bottom: 10px;
+    color: white;
+    font-size: 18px;
+}
+.navbar ul li a{
+    color: white !important;
+}

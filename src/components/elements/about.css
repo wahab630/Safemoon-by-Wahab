@@ -1,0 +1,17 @@
+.A-section{
+    
+    padding-top: 100px;
+    padding-bottom: 120px;
+}
+.badge{    
+    background-color: #008a81;
+}
+
+.second-image{
+    
+    border-radius: 50%;
+    height: 380px;
+    width: 380px;
+    text-align: center;
+    margin: auto;
+}

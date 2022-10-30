@@ -1,0 +1,48 @@
+
+.hero-vid{
+       width: 100%;
+}
+
+
+.bgvideo{
+    position: relative !important;
+    /* width: 100%; */
+}
+.hero-con{
+    margin-left: 100px;
+    position: absolute;
+    top: 0;
+    /* margin-left: auto;
+    margin-right: auto; */
+}
+
+.welcome-section{   
+     padding-top: 100px;
+     padding-bottom: 120px;
+     }
+
+.div-one{
+    margin-bottom: 30px;
+}
+.div-two{
+    margin-bottom: 20px;
+}
+
+.btn{
+    font-weight: bold;
+}
+.Button-one{
+    border: none;
+    border-radius: 5px;
+    background-color: #008a81;
+    color: white;
+    padding: 10px 20px;
+    margin: 20px 20px 20px 0;
+    font-family: Averta-Regular,sans-serif;
+
+}
+
+
+.image-1{
+    height: 40px;
+}
